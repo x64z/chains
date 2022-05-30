@@ -1,0 +1,24 @@
+{
+  "name": "Bitkub Chain testnet",
+  "chain": "BKC",
+  "rpc": [
+    "https://rpc-testnet.bitkubchain.io"
+  ],
+  "faucets": [
+    "https://faucet.bitkubchain.com/"
+  ],
+  "nativeCurrency": {
+    "name": "Bitkub Coin",
+    "symbol": "KUB",
+    "decimals": 18
+  },
+  "infoURL": "https://testnet.bkcscan.com",
+  "shortName": "KUB",
+  "chainId": 25925,
+  "networkId": 25925,
+  "explorers": [{
+    "name": "bkcscan-testnet",
+    "url": "https://testnet.bkcscan.com",
+    "standard": "EIP3091"
+  }]
+}
